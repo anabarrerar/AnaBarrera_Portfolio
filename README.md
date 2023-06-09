@@ -1,4 +1,4 @@
 # Ana Barrera Projects Portfolio
 
-# Projct 1: 
+# Project 1: 
 
