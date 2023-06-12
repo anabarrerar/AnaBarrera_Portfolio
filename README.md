@@ -12,10 +12,10 @@ This project aims to develop a recommendation system that provides personalized 
 This project aims to find a model that can help companies determine the factors influencing an employee's decision to leave. By identifying these factors, companies can focus on improving them to retain talented employees.Through data understanding, preprocessing, and feature selection, two models were built using PyCaret. The first model achieved a recall of 0.81, while the second model had an accuracy of 0.94. These models provide valuable insights for companies to understand and address factors influencing employee attrition, aiding in talent retention efforts.
 
 <p align="center">
-  <img src="/EmployeeAttrition/confusionmatrix_oversampled.png" alt="confusionmatrix_oversampled_data" width="400" height="400" />
+  <img src="/EmployeeAttrition/confusionmatrix_oversampled.png" alt="confusionmatrix_oversampled_data" width="500" height="500" />
 </p>
 
 <p align="center">
-  <img src="/EmployeeAttrition/feature_importance.png" alt="feature_importance" width="400" height="200" />
+  <img src="/EmployeeAttrition/feature_importance.png" alt="feature_importance" width="500" height="300" />
 </p>
 
