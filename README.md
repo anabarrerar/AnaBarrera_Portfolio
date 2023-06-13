@@ -11,11 +11,8 @@ This project aims to develop a recommendation system that provides personalized 
 ## Project 3: [Employee Attrition Prediction](https://github.com/anabarrerar/AnaBarrera_Portfolio/blob/main/EmployeeAttrition/EmployeeAttrition%26Performance.ipynb)
 This project aims to find a model that can help companies determine the factors influencing an employee's decision to leave. By identifying these factors, companies can focus on improving them to retain talented employees.Through data understanding, preprocessing, and feature selection, two models were built using PyCaret. The first model achieved a recall of 0.81, while the second model had an accuracy of 0.94. These models provide valuable insights for companies to understand and address factors influencing employee attrition, aiding in talent retention efforts.
 
-<p align="center">
-  <img src="/EmployeeAttrition/confusionmatrix_oversampled.png" alt="confusionmatrix_oversampled_data" width="500" height="500" />
-</p>
-
-<p align="center">
-  <img src="/EmployeeAttrition/feature_importance.png" alt="feature_importance" width="500" height="300" />
-</p>
-
+**Results and feature importance**
+<div style="display: flex; align-items: center;">
+  <img src="/EmployeeAttrition/confusionmatrix_oversampled.png" alt="Image 1" style="width: 28%; object-fit: contain;">
+  <img src="/EmployeeAttrition/feature_importance.png" alt="Image 2" style="width: 50%; object-fit: contain;">
+</div>
